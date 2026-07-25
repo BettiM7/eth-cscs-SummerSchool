@@ -21,6 +21,9 @@ We will be using Slack to post news and links relevant to the event: you should 
 - [CUDA](./cuda) 
 - [Python HPC](./python-hpc) 
 
+## Setting up the course accounts
+- https://docs.cscs.ch/guides/course-account/
+  
 ## Obtaining a copy of this repository
 
 ### On your own computer
